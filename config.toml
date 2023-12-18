@@ -1,5 +1,5 @@
-baseURL = "http://localhost:1313/gdr_nbody_2021/"
-#baseURL = "https://lcpq.github.io/gdr_nbody_2021/"
+baseURL = "http://localhost:1313/yrm2024/"
+#baseURL = "https://lcpq.github.io/yrm2024/"
 canonifyurls  = true
 languageCode = "en-us"
 DefaultContentLanguage = "en"
