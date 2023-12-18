@@ -1,0 +1,6 @@
+public
+*.lock
+*.DS_Store
+*.swp
+
+

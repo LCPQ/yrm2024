@@ -1,0 +1,12 @@
+diff --git a/config.toml b/config.toml
+index cad4250..b9c9e51 100644
+--- a/config.toml
++++ b/config.toml
+@@ -1,5 +1,5 @@
+-baseURL = "http://localhost:1313/gdr_nbody_2021/"
+-#baseURL = "https://lcpq.github.io/gdr_nbody_2021/"
++#baseURL = "http://localhost:1313/gdr_nbody_2021/"
++baseURL = "https://lcpq.github.io/gdr_nbody_2021/"
+ canonifyurls  = true
+ languageCode = "en-us"
+ DefaultContentLanguage = "en"

@@ -1,0 +1,40 @@
+name: github pages
+
+on:
+  push:
+    branches:
+      - master
+      - site
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: refresh apt
+        run: sudo apt update
+
+      - name: install dependencies
+        run: sudo apt install snap
+
+      - name: install hugo
+        run: sudo snap install hugo --channel=extended
+
+      - name: install theme
+        run: git submodule update --init --recursive
+
+      - name: patch config
+        run: git apply .github/workflows/config.patch
+
+      - name: make
+        run: make
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+
+
+
