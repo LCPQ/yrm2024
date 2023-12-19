@@ -1,11 +1,13 @@
 ---
 title: "Participants"
-date: 2020-12-02 09:04
+date: 2023-12-19 09:00
 draft: false
 ---
 
 # List of registered participants
 
-1. Michel Caffarel (LCPQ, Toulouse, organiser) <!-- michel.caffarel@gmail.com -->
-1. Pierre-Francois Loos	(LCPQ, Toulouse, organiser) <!-- loos@irsamc.ups-tlse.fr -->
+1. Abdallah Ammar (LCPQ, Toulouse, organiser) <!-- aammar@irsamc.ups-tlse.fr -->
+2. Leonardo Biancorosso (DSCF, Trieste, organiser) <!-- leonardo.biancorosso@phd.units.it -->
+3. Sofia Canola (FZU, Prague, organiser) <!-- canola@fzu.cz -->
+4. Karthikeyan Saravanabavan (LITEN, Grenoble, organiser) <!-- karthikeyan.saravanabavan@cea.fr -->
 

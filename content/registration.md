@@ -1,11 +1,8 @@
 ---
 title: "Registration"
-date: 2020-12-02 09:01
+date: 2023-12-19 09:00
 draft: false
 ---
 
-# Conference registration
-
-Registration is **closed**. The deadline for submission was December, 1st 2021!
-
+Registration is **not open yet**. Please check back later for updates on the registration opening date.
 

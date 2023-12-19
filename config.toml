@@ -4,24 +4,25 @@ canonifyurls  = true
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 theme = "beautifulhugo"
-title = "GDR NBODY MEETING (Toulouse, 10-13 Jan 2022)"
+title = "20th ETSF Young Researchers' Meeting 2024 (Toulouse, 27-31 May 2024)"
 [Params]
-  hometitle = "GDR NBODY GENERAL MEETING 2022"
-  logo="img/CNRS.png"
-#  subtitle = ""
+  hometitle = "YRM 2024"
+  logo="img/yrm-2024-logo.png"
+  subtitle = "ETSF"
+#  since = "2024"
 [[Params.bigimg]]
-  src = "img/500px-Maths1.jpg"
-  desc = "GDR NBODY"
+  src = "img/Toulouse_4.jpg"
+  desc = "YRM 2024"
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
  [Author]
-#  name = "GDR NBODY"
-   email = "gdrnbody@lct.jussieu.fr"
+#   name = "YRM 2024"
+   email = "yrm2024organizers@gmail.com"
 #  github = "LCPQ"
-   twitter = "GDR_NBODY"
+#   twitter = "GDR_NBODY"
 #   youtube = "channel/UCPUtUMqEM3K5sYcMJGTd_Bg"
 
 [[menu.main]]

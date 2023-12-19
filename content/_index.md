@@ -1,11 +1,11 @@
 ---
 title: "Home"
-date: 2020-12-02 09:00
+date: 2023-12-19 09:00
 draft: false
 ---
 
 # NEWS
 
 
-## CONFIRMED KEYNOTE SPEAKERS
+## The conference website has been launched
 

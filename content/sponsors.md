@@ -1,15 +1,13 @@
 ---
 title: "Sponsors"
-date: 2020-12-02 09:05
+date: 2023-12-19 09:00
 draft: false
 ---
 
 |                                                                          |       |
 | ------------------------------------------------------------------------ | ----- |
-| <img width="200" style="vertical-align: middle;" src="/img/CNRS.png" />  | CNRS  |
 | <img width="300" style="vertical-align: middle;" src="/img/LCPQ.png" />  | LCPQ  |
-| <img width="300" style="vertical-align: middle;" src="/img/FERMI.png" /> | FERMI |
-| <img width="300" style="vertical-align: middle;" src="/img/NEXT.jpg" />  | NEXT  |
-| <img width="300" style="vertical-align: middle;" src="/img/NanoX.jpg" /> | NanoX |
-| <img width="300" style="vertical-align: middle;" src="/img/UPS.png" />   | UPS   |
+| <img width="400" style="vertical-align: middle;" src="/img/cecam.png" /> | CECAM |
+| <img width="150" style="vertical-align: middle;" src="/img/psik.png" />  | Psi-k |
 |                                                                          |       |
+<!--- | <img width="300" style="vertical-align: middle;" src="/img/NanoX.jpg" /> | NanoX | -->
