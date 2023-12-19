@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on GDR NBODY MEETING (Toulouse, 10-13 Jan 2022)</title>
+    <title>Categories on 20th ETSF Young Researchers&#39; Meeting 2024 (Toulouse, 27-31 May 2024)</title>
     <link>https://lcpq.github.io/yrm2024/categories/</link>
-    <description>Recent content in Categories on GDR NBODY MEETING (Toulouse, 10-13 Jan 2022)</description>
+    <description>Recent content in Categories on 20th ETSF Young Researchers&#39; Meeting 2024 (Toulouse, 27-31 May 2024)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>gdrnbody@lct.jussieu.fr</managingEditor>
-    <webMaster>gdrnbody@lct.jussieu.fr</webMaster>
+    <managingEditor>yrm2024organizers@gmail.com</managingEditor>
+    <webMaster>yrm2024organizers@gmail.com</webMaster>
     <atom:link href="https://lcpq.github.io/yrm2024/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
