@@ -10,11 +10,25 @@
     <webMaster>yrm2024organizers@gmail.com</webMaster>
     <atom:link href="https://lcpq.github.io/yrm2024/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>YRM 2024</title>
+      <link>https://lcpq.github.io/yrm2024/event/</link>
+      <pubDate>Wed, 20 Dec 2023 20:45:17 +0100</pubDate><author>yrm2024organizers@gmail.com</author>
+      <guid>https://lcpq.github.io/yrm2024/event/</guid>
+      <description>Welcome to the 20th ETSF Young Researchers&amp;rsquo; Meeting (YRM 2024), an annual event organized by the European Theoretical Spectroscopy Facility ETSF. This international gathering brings together early-stage researchers, including PhD and postdoctoral researchers, who are actively involved in exploring novel theoretical and computational approaches for studying the electronic and optical properties of materials.&#xA;Oral Sessions The meeting features five engaging oral sessions, providing a platform for in-depth discussions and presentations:</description>
+    </item>
+    <item>
       <title>Location</title>
       <link>https://lcpq.github.io/yrm2024/map/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yrm2024organizers@gmail.com</author>
       <guid>https://lcpq.github.io/yrm2024/map/</guid>
-      <description>Location The conference venue is the FeRMI seminar room located on the campus of Université Paul Sabatier&#xA;Map Display larger map </description>
+      <description>Venue Information The conference will take place in the FeRMI seminar room at:&#xA;Université Paul Sabatier&#xA;Bâtiment 3R1&#xA;76 Rue Sébastienne Guyot,&#xA;31400 Toulouse&#xA;GPS Coordinates:&#xA;Latitude: 43.56075 Longitude: 1.46774 Direction from the City Center 🚇 If you are arriving from the city center, simply hop on Metro Line B and head to the Paul Sabatier station.&#xA;Map Display larger map </description>
+    </item>
+    <item>
+      <title>Organized by</title>
+      <link>https://lcpq.github.io/yrm2024/organizers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yrm2024organizers@gmail.com</author>
+      <guid>https://lcpq.github.io/yrm2024/organizers/</guid>
+      <description> Abdallah Ammar&#xA;Affiliation: LCPQ, Toulouse Leonardo Biancorosso&#xA;Affiliation: DSCF, Trieste Sofia Canola&#xA;Affiliation: FZU, Prague Karthikeyan Saravanabavan&#xA;Affiliation: LITEN, Grenoble </description>
     </item>
     <item>
       <title>Participants</title>
@@ -24,13 +38,6 @@
       <description>List of registered participants Abdallah Ammar (LCPQ, Toulouse, organiser) Leonardo Biancorosso (DSCF, Trieste, organiser) Sofia Canola (FZU, Prague, organiser) Karthikeyan Saravanabavan (LITEN, Grenoble, organiser) </description>
     </item>
     <item>
-      <title>Planning</title>
-      <link>https://lcpq.github.io/yrm2024/planning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yrm2024organizers@gmail.com</author>
-      <guid>https://lcpq.github.io/yrm2024/planning/</guid>
-      <description>Monday, May 27, 2024 TIME EVENT 8:30 - 9:00 Kick-off SESSION 1 Chair: 9:00 - 10:00 Big Bla Bla Bla 10:00 - 10:30 Short Bla Bla Bla 10:30 - 11:00 Coffee break + poster flash presentations 11:00 - 11:30 Short Bla Bla Bla 11:30 - 12:00 Short Bla Bla Bla 12:00 - 13:30 Lunch break SESSION 2 Chair: 13:30 - 14:30 Big Bla Bla Bla 14:30 - 15:00 Short Bla Bla Bla 15:00 - 15:30 Coffee break + poster flash presentations 15:30 - 16:00 Short Bla Bla Bla 16:00 - 16:30 Short Bla Bla Bla Tuesday, May 28, 2024 TIME EVENT 8:30 - 9:00 Kick-off SESSION 1 Chair: 9:00 - 10:00 Big Bla Bla Bla 10:00 - 10:30 Short Bla Bla Bla 10:30 - 11:00 Coffee break + poster flash presentations 11:00 - 11:30 Short Bla Bla Bla 11:30 - 12:00 Short Bla Bla Bla 12:00 - 13:30 Lunch break SESSION 2 Chair: 13:30 - 14:30 Big Bla Bla Bla 14:30 - 15:00 Short Bla Bla Bla 15:00 - 15:30 Coffee break + poster flash presentations 15:30 - 16:00 Short Bla Bla Bla 16:00 - 16:30 Short Bla Bla Bla Wednesday, May 29, 2024 TIME EVENT 8:30 - 9:00 Kick-off SESSION 1 Chair: 9:00 - 10:00 Big Bla Bla Bla 10:00 - 10:30 Short Bla Bla Bla 10:30 - 11:00 Coffee break + poster flash presentations 11:00 - 11:30 Short Bla Bla Bla 11:30 - 12:00 Short Bla Bla Bla 12:00 - 13:30 Lunch break SESSION 2 Chair: 13:30 - 14:30 Big Bla Bla Bla 14:30 - 15:00 Short Bla Bla Bla 15:00 - 15:30 Coffee break + poster flash presentations 15:30 - 16:00 Short Bla Bla Bla 16:00 - 16:30 Short Bla Bla Bla Thursday, May 30, 2024 TIME EVENT 8:30 - 9:00 Kick-off SESSION 1 Chair: 9:00 - 10:00 Big Bla Bla Bla 10:00 - 10:30 Short Bla Bla Bla 10:30 - 11:00 Coffee break + poster flash presentations 11:00 - 11:30 Short Bla Bla Bla 11:30 - 12:00 Short Bla Bla Bla 12:00 - 13:30 Lunch break SESSION 2 Chair: 13:30 - 14:30 Big Bla Bla Bla 14:30 - 15:00 Short Bla Bla Bla 15:00 - 15:30 Coffee break + poster flash presentations 15:30 - 16:00 Short Bla Bla Bla 16:00 - 16:30 Short Bla Bla Bla Friday, May 31, 2024 TIME EVENT 8:30 - 9:00 Kick-off SESSION 1 Chair: 9:00 - 10:00 Big Bla Bla Bla 10:00 - 10:30 Short Bla Bla Bla 10:30 - 11:00 Coffee break + poster flash presentations 11:00 - 11:30 Short Bla Bla Bla 11:30 - 12:00 Short Bla Bla Bla END </description>
-    </item>
-    <item>
       <title>Posters</title>
       <link>https://lcpq.github.io/yrm2024/posters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yrm2024organizers@gmail.com</author>
@@ -38,18 +45,25 @@
       <description> Name Surname(Lab, Country):&#xA;Poster Title Name Surname(Lab, Country):&#xA;Poster Title </description>
     </item>
     <item>
-      <title>Presentations</title>
-      <link>https://lcpq.github.io/yrm2024/presentations/</link>
+      <title>Program</title>
+      <link>https://lcpq.github.io/yrm2024/program/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yrm2024organizers@gmail.com</author>
-      <guid>https://lcpq.github.io/yrm2024/presentations/</guid>
-      <description>Keynote speakers Person 1 (X University, XXX) Here comes the title of Talk 1&#xA;In this talk I will &amp;hellip;&#xA;[1] &amp;hellip;&#xA;Person 2 (X University, XXX) Here comes the title of Talk 2&#xA;In this talk I will &amp;hellip;&#xA;[1] &amp;hellip;</description>
+      <guid>https://lcpq.github.io/yrm2024/program/</guid>
+      <description>Program Information Coming Soon&#xA;The program details are not yet available. Please check back soon for the latest updates on the schedule and content. Thank you for your patience!&#xA;Stay tuned for exciting updates! 🌐✨</description>
     </item>
     <item>
       <title>Registration</title>
       <link>https://lcpq.github.io/yrm2024/registration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yrm2024organizers@gmail.com</author>
       <guid>https://lcpq.github.io/yrm2024/registration/</guid>
-      <description>Registration is not open yet. Please check back later for updates on the registration opening date.</description>
+      <description>Registration Coming Soon&#xA;We&amp;rsquo;re excited to have you join us! Registration is not open yet, but we&amp;rsquo;re working on it. Please check back later for updates on the registration opening date. We appreciate your interest and patience!&#xA;See you soon! 🎉🌐</description>
+    </item>
+    <item>
+      <title>Speakers</title>
+      <link>https://lcpq.github.io/yrm2024/speakers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yrm2024organizers@gmail.com</author>
+      <guid>https://lcpq.github.io/yrm2024/speakers/</guid>
+      <description>Speakers Lineup Unveiling Soon&#xA;Get ready for an inspiring lineup of speakers! We&amp;rsquo;re currently putting together an exceptional roster, and details will be revealed shortly. Check back soon for updates on the esteemed speakers who will be sharing their insights with us. Thank you for your anticipation!&#xA;Exciting announcements await! 🎤🌟</description>
     </item>
     <item>
       <title>Sponsors</title>

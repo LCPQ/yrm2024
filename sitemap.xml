@@ -2,21 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lcpq.github.io/yrm2024/event/</loc>
+    <lastmod>2023-12-20T20:45:17+01:00</lastmod>
+  </url><url>
     <loc>https://lcpq.github.io/yrm2024/categories/</loc>
   </url><url>
     <loc>https://lcpq.github.io/yrm2024/</loc>
   </url><url>
     <loc>https://lcpq.github.io/yrm2024/map/</loc>
   </url><url>
-    <loc>https://lcpq.github.io/yrm2024/participants/</loc>
+    <loc>https://lcpq.github.io/yrm2024/organizers/</loc>
   </url><url>
-    <loc>https://lcpq.github.io/yrm2024/planning/</loc>
+    <loc>https://lcpq.github.io/yrm2024/participants/</loc>
   </url><url>
     <loc>https://lcpq.github.io/yrm2024/posters/</loc>
   </url><url>
-    <loc>https://lcpq.github.io/yrm2024/presentations/</loc>
+    <loc>https://lcpq.github.io/yrm2024/program/</loc>
   </url><url>
     <loc>https://lcpq.github.io/yrm2024/registration/</loc>
+  </url><url>
+    <loc>https://lcpq.github.io/yrm2024/speakers/</loc>
   </url><url>
     <loc>https://lcpq.github.io/yrm2024/sponsors/</loc>
   </url><url>
