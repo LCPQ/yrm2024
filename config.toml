@@ -5,13 +5,17 @@ languageCode = "en-us"
 DefaultContentLanguage = "en"
 theme = "beautifulhugo"
 title = "20th ETSF Young Researchers' Meeting 2024 (Toulouse, 27-31 May 2024)"
+#title = "YRM 2024, 27-31 May, Toulouse"
 [Params]
   hometitle = "YRM 2024"
-  logo="img/yrm-2024-logo.png"
-  subtitle = "ETSF"
-#  since = "2024"
+#  hometitle = "27-31 May Toulouse"
+#  hometitle = " "
+#  logo="img/yrm-2024-logo.png"
+#  subtitle = "ETSF"
+  subtitle = "27-31 May, Toulouse"
+ # since = "2024"
 [[Params.bigimg]]
-  src = "img/Toulouse_4.jpg"
+  src = "img/Toulouse_12.png"
   desc = "YRM 2024"
 
 [markup]
@@ -25,9 +29,10 @@ title = "20th ETSF Young Researchers' Meeting 2024 (Toulouse, 27-31 May 2024)"
 #   twitter = "GDR_NBODY"
 #   youtube = "channel/UCPUtUMqEM3K5sYcMJGTd_Bg"
 
+
 [[menu.main]]
-    name = "Home"
-    url = ""
+    name = "Overview"
+    url = "event"
     weight = 1
 
 [[menu.main]]
@@ -36,28 +41,33 @@ title = "20th ETSF Young Researchers' Meeting 2024 (Toulouse, 27-31 May 2024)"
     weight = 2
 
 [[menu.main]]
-    name = "Planning"
-    url = "planning"
+    name = "Program"
+    url = "program"
     weight = 3
 
  [[menu.main]]
-     name="Presentations"
-     url = "presentations"
+     name="Speakers"
+     url = "speakers"
      weight = 4
 
- [[menu.main]]
-     name="Posters"
-     url = "posters"
-     weight = 5
+# [[menu.main]]
+#     name="Posters"
+#     url = "posters"
+#     weight = 5
 
 [[menu.main]]
     name = "Location"
     url = "map"
-    weight = 6
+    weight = 5
 
 [[menu.main]]
     name = "Participants"
     url = "participants"
+    weight = 6
+
+[[menu.main]]
+    name = "Organizers"
+    url = "organizers"
     weight = 7
 
 [[menu.main]]

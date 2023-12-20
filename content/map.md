@@ -4,9 +4,25 @@ date: 2023-12-19 09:00
 draft: false
 ---
 
-# Location
+# Venue Information
 
-The conference venue is the FeRMI seminar room located on the campus of Université Paul Sabatier
+The conference will take place in the [FeRMI seminar room](https://www.google.com/maps?q=43.56075,1.46774) at:
+
+**Université Paul Sabatier**  
+*Bâtiment 3R1*  
+76 Rue Sébastienne Guyot,  
+31400 Toulouse  
+
+**GPS Coordinates:**  
+- Latitude: 43.56075  
+- Longitude: 1.46774
+
+### Direction from the City Center
+
+🚇 If you are arriving from the city center, simply hop on Metro Line B and head to the **Paul Sabatier** station.
+
+
+
 
 # Map
 
