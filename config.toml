@@ -4,7 +4,7 @@ canonifyurls  = true
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 theme = "beautifulhugo"
-title = "20th ETSF Young Researchers' Meeting 2024 (Toulouse, 27-31 May 2024)"
+title = "20th ETSF Young Researchers' Meeting 2024 (Toulouse, 27th - 31st May 2024)"
 #title = "YRM 2024, 27-31 May, Toulouse"
 [Params]
   hometitle = "YRM 2024"
@@ -12,7 +12,7 @@ title = "20th ETSF Young Researchers' Meeting 2024 (Toulouse, 27-31 May 2024)"
 #  hometitle = " "
 #  logo="img/yrm-2024-logo.png"
 #  subtitle = "ETSF"
-  subtitle = "27th - 31st May, Toulouse"
+  subtitle = "27th - 31st May 2024, Toulouse"
  # since = "2024"
 [[Params.bigimg]]
   src = "img/Toulouse_13.png"
