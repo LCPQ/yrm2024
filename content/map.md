@@ -19,7 +19,7 @@ The conference will take place in the [FeRMI seminar room](https://www.google.co
 
 ### Direction from the City Center
 
-🚇 If you are arriving from the city center, simply hop on Metro Line B and head to the **Paul Sabatier** station.
+🚇 If you are arriving from the city center, simply hop on Metro **Line B** direction **Ramonville** and head to the **Paul Sabatier** station.
 
 
 

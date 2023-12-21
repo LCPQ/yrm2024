@@ -31,8 +31,8 @@ title = "20th ETSF Young Researchers' Meeting 2024 (Toulouse, 27-31 May 2024)"
 
 
 [[menu.main]]
-    name = "Overview"
-    url = "event"
+    name = "About"
+    url = "about"
     weight = 1
 
 [[menu.main]]
