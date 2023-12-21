@@ -16,4 +16,4 @@ draft: false
   - *Affiliation:* FZU, Prague
 
 - [**Karthikeyan Saravanabavan**](https://www.linkedin.com/in/karthikeyan-saravanabavan-58b632195/)
-  - *Affiliation:* LITEN, Grenoble
+  - *Affiliation:* CEA-LITEN, Grenoble
