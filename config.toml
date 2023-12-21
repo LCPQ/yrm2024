@@ -12,10 +12,10 @@ title = "20th ETSF Young Researchers' Meeting 2024 (Toulouse, 27-31 May 2024)"
 #  hometitle = " "
 #  logo="img/yrm-2024-logo.png"
 #  subtitle = "ETSF"
-  subtitle = "27-31 May, Toulouse"
+  subtitle = "27th - 31st May, Toulouse"
  # since = "2024"
 [[Params.bigimg]]
-  src = "img/Toulouse_12.png"
+  src = "img/Toulouse_13.png"
   desc = "YRM 2024"
 
 [markup]
@@ -60,20 +60,20 @@ title = "20th ETSF Young Researchers' Meeting 2024 (Toulouse, 27-31 May 2024)"
     url = "map"
     weight = 5
 
-[[menu.main]]
-    name = "Participants"
-    url = "participants"
-    weight = 6
+#[[menu.main]]
+#    name = "Participants"
+#    url = "participants"
+#    weight = 6
 
 [[menu.main]]
     name = "Organizers"
     url = "organizers"
-    weight = 7
+    weight = 6
 
 [[menu.main]]
     name = "Sponsors"
     url = "sponsors"
-    weight = 8
+    weight = 7
 
 #[[menu.main]]
 #    parent="external"

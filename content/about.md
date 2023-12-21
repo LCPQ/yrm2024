@@ -10,9 +10,9 @@ Welcome to the 20th ETSF Young Researchers' Meeting (YRM 2024), an annual event 
 This international gathering brings together early-stage researchers, including PhD and postdoctoral researchers, who are actively involved in exploring 
 novel theoretical and computational approaches for studying the electronic and optical properties of materials.
 
-## Oral Sessions
+## Sessions
 
-The meeting features five engaging oral sessions, providing a platform for in-depth discussions and presentations:
+The meeting features five engaging sessions, providing a platform for in-depth discussions and presentations:
 
 1. **Electronic Structure Methods Development**
    - Explore the latest advancements in developing electronic structure methods.

@@ -6,7 +6,7 @@ draft: false
 
 **Speakers Lineup Unveiling Soon**
 
-Get ready for an inspiring lineup of speakers! 
+Get ready for an impressive lineup of speakers! 
 We're currently putting together an exceptional roster, and details will be revealed shortly. 
 Check back soon for updates on the esteemed speakers who will be sharing their insights with us. Thank you for your anticipation!
 
