@@ -9,11 +9,11 @@ draft: false
 - [**Abdallah Ammar**](https://scholar.google.com/citations?user=y437T5sAAAAJ&hl=fr&oi=sra)
   - *Affiliation:* LCPQ, Toulouse
 
-- **Leonardo Biancorosso**
+- [**Leonardo Biancorosso**](https://www.linkedin.com/in/leonardo-biancorosso-904106200/)
   - *Affiliation:* DSCF, Trieste
 
 - [**Sofia Canola**](https://scholar.google.com/citations?user=KCVou9wAAAAJ&hl=fr&oi=sra)
   - *Affiliation:* FZU, Prague
 
-- **Karthikeyan Saravanabavan**
+- [**Karthikeyan Saravanabavan**](https://www.linkedin.com/in/karthikeyan-saravanabavan-58b632195/)
   - *Affiliation:* LITEN, Grenoble
