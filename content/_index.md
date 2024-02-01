@@ -7,6 +7,7 @@ draft: false
 # NEWS
 
 
-## The conference website has been launched
+## Registration Now Open for the Conference!
 
+We're excited to announce that registration is now open. Don't miss the opportunity to secure your spot for this fantastic event!
 
