@@ -4,10 +4,34 @@ date: 2023-12-19 09:00
 draft: false
 ---
 
-**Registration Open Now!**
+**Registration is now open!**
 
-We're thrilled to welcome you aboard! Registration is now open, and we can't wait for you to join us. Hurry and secure your spot by filling out the registration form [here](https://forms.gle/sa95htmbsSZZYxjEA).
+Registration is now open, and we look forward to having you join us.
 
-**Registration Deadline:** April 19, 2024
+
+**YRM 2024 Registration Form:** [here](https://forms.gle/sa95htmbsSZZYxjEA)
+
+**Registration and abstract submission Deadline:** April 19, 2024
+
+
+---
+
+**Presentation**
+
+You can either deliver an **Oral Presentation** on one of the sessions or a **Poster**, or **both**
+
+The event will take place in a hybrid format. 
+Those who are willing to give a contributed talk or present a poster will have to register for in-person
+
+---
+
+**Registration**
+
+**There is no registration fee**.
+The registration includes lunches, coffee breaks throughout the entire event, and the social dinner.
+
+
+
+
 
 *See you soon!* 🎉🌐
