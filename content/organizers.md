@@ -17,3 +17,9 @@ draft: false
 
 - [**Karthikeyan Saravanabavan**](https://www.linkedin.com/in/karthikeyan-saravanabavan-58b632195/)
   - *Affiliation:* CEA-LITEN, Grenoble
+
+---
+
+The organizers extend their heartfelt gratitude to the LCPQ laboratory, with 
+special appreciation for its director, **Thierry LEININGER**, and the support 
+provided by secretary **Amandine LAURENT** in facilitating the organization of this workshop.

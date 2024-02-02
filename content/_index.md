@@ -7,7 +7,7 @@ draft: false
 # NEWS
 
 
-## Registration Now Open for the Conference!
+## Registration Is Now Open for the Conference!
 
 We're pleased to announce that [registration and abstract submission for the **YRM 2024**](https://forms.gle/sa95htmbsSZZYxjEA) 
 is now open. 
