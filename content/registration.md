@@ -28,7 +28,7 @@ Those who are willing to give a contributed talk or present a poster will have t
 **Registration**
 
 **There is no registration fee**.
-The registration includes lunches, coffee breaks throughout the entire event, and the social dinner.
+The registration includes lunches, coffee breaks throughout the entire event.
 
 
 
