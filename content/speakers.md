@@ -7,7 +7,7 @@ draft: false
 ### Electronic Structure Methods Development
 
 - [**Gianluca Levi**](https://scholar.google.com/citations?user=HhElK98AAAAJ&hl=en) (University of Iceland)
-  - <span style="color: #b71c1c;">Calculating challenging electronic excitations in molecules and solids by converging on saddle points of the electronic energy surface</span>
+  - <span style="color: #b71c1c;">Calculating Challenging Electronic Excitations in Molecules and Solids by Converging on Saddle Points of the Electronic Energy surface</span>
 
 - [**Maria-Andreea Filip**](https://scholar.google.co.uk/citations?user=2ThdnlMAAAAJ&hl=en) (Max Planck Institute for Solid State Research)
 
@@ -43,6 +43,7 @@ draft: false
 ### Machine Learning in Materials Science
 
 - [**Jannes Nys**](https://scholar.google.com/citations?user=dFmD8MsAAAAJ&hl=en) (École Polytechnique Fédérale de Lausanne)
+  - <span style="color: #b71c1c;">Capturing Strong Many-Body Correlations in Eigenstates and Quantum Dynamics of Electronic Systems Using Neural Quantum States</span>
 
 ***
 
