@@ -7,7 +7,7 @@ draft: false
 ### Electronic Structure Methods Development
 
 - [**Gianluca Levi**](https://scholar.google.com/citations?user=HhElK98AAAAJ&hl=en) (University of Iceland)
-  - <span style="color: #b71c1c;">Calculating Challenging Electronic Excitations in Molecules and Solids by Converging on Saddle Points of the Electronic Energy surface</span>
+  - <span style="color: #b71c1c;">Calculating Challenging Electronic Excitations in Molecules and Solids by Converging on Saddle Points of the Electronic Energy Surface</span>
 
 - [**Maria-Andreea Filip**](https://scholar.google.co.uk/citations?user=2ThdnlMAAAAJ&hl=en) (Max Planck Institute for Solid State Research)
 
