@@ -28,12 +28,14 @@ draft: false
   - <span style="color: #b71c1c;">Influence of the Organic Cation Orientation on the Absorption Spectra of 2D Hybrid Organic-Inorganic Perovskites</span>
 
 - [**Aloïs Castellano**](https://scholar.google.com/citations?user=V5KIbMcAAAAJ&hl=en) (University of Liège)
+  - <span style="color: #b71c1c;">From Thermodynamics to Vibrational Spectra and Transport: a Theory of the Anharmonic Crystal</span>
 
 ***
 
 ### Strongly Correlated Systems and Magnetism
 
 - [**Sara Giarrusso**](https://scholar.google.com/citations?user=r6hYvFsAAAAJ&hl=en) (Université Paris-Saclay)
+  - <span style="color: #b71c1c;">Electronic Vector Potential from the Exact Factorization of a Complex Wavefunction</span>
 
 - [**Carlos Mejuto-Zaera**](https://scholar.google.com/citations?user=Pvtq_0gAAAAJ&hl=en) (International School for Advanced Studies, SISSA)
   - <span style="color: #b71c1c;">Strong Correlation Through Auxiliary Particles: Capturing Non-Local Interactions in Strongly Correlated Materials</span>

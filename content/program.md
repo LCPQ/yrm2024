@@ -98,4 +98,5 @@ draft: false
 | 11:30 - 12:00 | <span style="color: green;">Contributed talk</span>     |  
 |               |                                                         |
 |               | Closing remarks                                         |
+| 14:00 - 16:00 | <span style="color: red;">scientific discussion</span>  |
 
