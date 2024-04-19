@@ -19,6 +19,7 @@ draft: false
   - <span style="color: #b71c1c;">Design of Au-Based Nanoalloys as Plasmocatalyst</span>
 
 - [**Laura Urquiza**](https://scholar.google.com/citations?user=CYqL_NYAAAAJ&hl=en) (École Polytechnique)
+  - <span style="color: #b71c1c;">Excitonic Effects Revealed Through Resonant Inelastic X-Ray Scattering and Complementary X-Ray Spectroscopies</span>
 
 ***
 
