@@ -11,7 +11,7 @@ Registration is now open, and we look forward to having you join us.
 
 **YRM 2024 Registration Form:** [here](https://forms.gle/sa95htmbsSZZYxjEA)
 
-**Registration and abstract submission Deadline:** April 19, 2024
+**Registration and abstract submission Deadline:** ~~April 19, 2024~~ April 26, 2024
 
 
 ---

@@ -15,6 +15,13 @@ draft: false
 
 ---
 
+## NEW Registration Deadline: April 26, 2024
+
+The deadline for registration and abstract submission for the YRM 2024 has 
+been extended until **April 26, 2024**. 
+
+---
+
 
 ## Registration Is Now Open for the Conference!
 
