@@ -4,8 +4,6 @@ date: 2023-12-19 09:00
 draft: false
 ---
 
-**Program**
-
 ### Monday, May 27, 2024
 #### Electronic Structures and Methods Development
 
