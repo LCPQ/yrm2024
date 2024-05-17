@@ -30,20 +30,20 @@ draft: false
 ### Tuesday, May 28, 2024
 #### Optical Properties of Materials
 
-| TIME          | EVENT                                                   |
-| ------------- | --------------------------------------------------------|
-| **SESSION 1** | Chair:                                                  |
-| 10:00 - 10:55 | <span style="color: blue;">Mirko Vanzan</span>          |
-| 10:55 - 11:20 | <span style="color: red;">Coffee break </span>          |
-| 11:20 - 11:45 | <span style="color: green;">June Groothuizen</span>     |
-| 11:45 - 12:10 | <span style="color: green;">Pierpaolo D'Antoni</span>   |
-| 12:10 - 12:35 | <span style="color: green;">Line Jelver</span>          |
-| 12:35 - 14:00 | Lunch break                                             |
-| **SESSION 2** | Chair:                                                  |
-| 14:00 - 14:55 | <span style="color: blue;">Laura Urquiza</span>         |
-| 14:55 - 15:20 | <span style="color: green;">Jozef Janovec</span>        |
-| 15:20 - 15:45 | <span style="color: green;">Brahim Bahloul</span>       |
-| 15:45 - 17:00 | <span style="color: red;">Coffee + Posters</span>       |
+| TIME          | EVENT                                                    |
+| ------------- | ---------------------------------------------------------|
+| **SESSION 1** | Chair:                                                   |
+| 10:00 - 10:55 | <span style="color: blue;">Mirko Vanzan</span>           |
+| 10:55 - 11:20 | <span style="color: red;">Coffee break </span>           |
+| 11:20 - 11:45 | <span style="color: green;">June Groothuizen</span>      |
+| 11:45 - 12:10 | <span style="color: green;">Pierpaolo D'Antoni</span>    |
+| 12:10 - 12:35 | <span style="color: green;">Line Jelver</span>           |
+| 12:35 - 14:00 | Lunch break                                              |
+| **SESSION 2** | Chair:                                                   |
+| 14:00 - 14:55 | <span style="color: blue;">Laura Urquiza</span>          |
+| 14:55 - 15:20 | <span style="color: green;">Jozef Janovec</span>         |
+| 15:20 - 15:45 | <span style="color: green;">Brahim Bahloul</span>        |
+| 15:45 - 17:00 | <span style="color: red;">Coffee + Poster Session</span> |
 
 
 ### Wednesday, May 29, 2024
