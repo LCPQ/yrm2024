@@ -55,13 +55,13 @@ draft: false
 | 10:00 - 10:55 | <span style="color: blue;">Svenja M. Janke</span>                    |
 | 10:55 - 11:20 | <span style="color: red;">Coffee break </span>                       |
 | 11:20 - 11:45 | <span style="color: green;">Felana Noeliarinala Andriambelaza</span> |
-| 11:45 - 12:10 | <span style="color: green;">Maram Ali Ahmed Musa</span>              |
+| 11:45 - 12:10 | <span style="color: green;">Raveena Gupta</span>                     |
 | 12:10 - 12:35 | <span style="color: green;">Mahé Lezoualc'h</span>                   |
 | 12:35 - 14:00 | Lunch break                                                          |
 | **SESSION 2** | Chair:                                                               |
 | 14:00 - 14:55 | <span style="color: blue;">Aloïs Castellano</span>                   |
 | 14:55 - 15:20 | <span style="color: red;">Coffee break</span>                        |
-| 15:20 - 15:45 | <span style="color: green;">Raveena Gupta</span>                     |
+| 15:20 - 15:45 | <span style="color: green;">Maram Ali Ahmed Musa</span>              |
 | 15:45 - 16:10 | <span style="color: green;">Maxime Mignolet</span>                   |
 | 16:10 - 16:35 | <span style="color: green;">Muhammad Shujaat Hussain</span>          |
 
