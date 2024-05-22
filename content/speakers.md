@@ -17,7 +17,7 @@ draft: false
 ### Optical Properties of Materials
 
 - [**Mirko Vanzan**](https://scholar.google.com/citations?user=HkLnftsAAAAJ&hl=en) (University of Milan)
-  - <span style="color: #b71c1c;">A computational study on the interplay between geometrical structure and optical properties in Au-based nanoalloys</span>
+  - <span style="color: #b71c1c;">Design of Au-Based Nanoalloys as Plasmocatalyst</span>
 
 - [**Laura Urquiza**](https://scholar.google.com/citations?user=CYqL_NYAAAAJ&hl=en) (École Polytechnique)
   - <span style="color: #b71c1c;">Excitonic effects revealed through resonant inelastic X-ray scattering and complementary X-ray spectroscopies</span>
