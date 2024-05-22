@@ -95,7 +95,7 @@ draft: false
 | 10:00 - 10:55 | <span style="color: blue;">Jannes Nys</span>            |
 | 10:55 - 11:20 | <span style="color: red;">Coffee break </span>          |
 | 11:20 - 11:45 | <span style="color: green;">Henry Fried</span>          |
-| 11:45 - 12:10 | <span style="color: green;">Ian-Evan Michel</span>      |
+| 11:45 - 12:10 | <span style="color: green;">Prashant Kumar</span>       |
 | 12:10 - 12:35 | <span style="color: green;">José Batista</span>         |
 | 12:35 - 13:00 | <span style="color: green;">Daniele Veraldi</span>      |
 |               |                                                         |
