@@ -6,7 +6,7 @@ draft: false
 
 # Venue Information
 
-The conference will take place in the [FeRMI seminar room](https://www.google.com/maps?q=43.56075,1.46774) at:
+The conference will take place in the [FeRMI conference room](https://www.google.com/maps?q=43.560848,1.467227) at:
 
 **Université Paul Sabatier**  
 *Bâtiment 3R4*
@@ -21,7 +21,7 @@ The conference will take place in the [FeRMI seminar room](https://www.google.co
 
 🚇 If you are arriving from the city center, simply hop on Metro **Line B** direction **Ramonville** and head to the **Paul Sabatier** station.
 
-
+![Alt text](../static/img/map_yrm2024.png)
 
 
 # Map
