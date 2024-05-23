@@ -21,7 +21,7 @@ The conference will take place in the [FeRMI conference room](https://www.google
 
 🚇 If you are arriving from the city center, simply hop on Metro **Line B** direction **Ramonville** and head to the **Paul Sabatier** station.
 
-![Alt text](../static/img/map_yrm2024.png)
+![Conference & Lunch Locations](/img/map_yrm2024.png)
 
 
 # Map
