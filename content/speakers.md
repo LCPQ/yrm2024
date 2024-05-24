@@ -53,7 +53,7 @@ draft: false
 
 ### Industry Session
 
-- [**Julia Schaefer**]() (Heliatek GmbH)
+- [**Julia Schaefer**](https://www.linkedin.com/in/dr-julia-m-sch%C3%A4fer-44ba02192/) (Heliatek GmbH)
   - <span style="color: #b71c1c;">Transitioning from Academia to Corporate R&D as a Computational Chemist</span>
 
 ******
