@@ -9,8 +9,8 @@ draft: false
 The conference will take place in the [FeRMI conference room](https://www.google.com/maps?q=43.560848,1.467227) at:
 
 **Université Paul Sabatier**  
-*Bâtiment 3R4*
-76 Rue Sébastienne Guyot,  
+1st stage of the building **3R4**  
+76 Rue Sébastienne Guyot  
 31400 Toulouse  
 
 **GPS Coordinates:**  
