@@ -4,6 +4,9 @@ date: 2023-12-19 09:00
 draft: false
 ---
 
+### For more information, including abstracts and the detailed program, please refer to the [conference book 📖](/book_of_abstracts.pdf)
+
+
 ### Monday, May 27, 2024
 #### Electronic Structures and Methods Development
 

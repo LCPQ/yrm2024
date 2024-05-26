@@ -15,6 +15,10 @@ draft: false
 
 ---
 
+## A first version of the [abstracts book 📖](http://lcpq.github.io/yrm2024/book_of_abstracts.pdf) is now available online!
+
+---
+
 ## The conference program is online!
 
 ---
