@@ -58,7 +58,7 @@ title = "20th ETSF Young Researchers' Meeting (Toulouse, 27th - 31st May 2024)"
 
 [[menu.main]]
     name = "Location"
-    url = "map"
+    url = "location"
     weight = 5
 
 #[[menu.main]]
