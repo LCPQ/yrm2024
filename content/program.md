@@ -86,7 +86,7 @@ draft: false
 | 14:55 - 15:20 | <span style="color: black;">Coffee break</span> ☕                   |
 | 15:20 - 15:45 | <span style="color: green;">Yiming Zhang</span>                      |
 | 15:45 - 16:10 | <span style="color: green;">Emil Östberg</span>                      |
-| 16:10 - 17:05 | <span style="color: blue;">Julia M. Schaefer</span>                  |
+| 16:10 - 16:35 | <span style="color: green;">Daniele Veraldi</span>                   |
     
 
 ### Friday, May 31, 2024
@@ -95,12 +95,13 @@ draft: false
 | TIME          | EVENT                                                       |
 | ------------- | ------------------------------------------------------------|
 | **SESSION 1** | <span style="color: purple;">Chair: Aloïs Castellano</span> |
-| 10:00 - 10:55 | <span style="color: blue;">Jannes Nys</span>                |
-| 10:55 - 11:20 | <span style="color: black;">Coffee break </span> ☕         |
-| 11:20 - 11:45 | <span style="color: green;">Henry Fried</span>              |
-| 11:45 - 12:10 | <span style="color: green;">Prashant Kumar</span>           |
-| 12:10 - 12:35 | <span style="color: green;">José Batista</span>             |
-| 12:35 - 13:00 | <span style="color: green;">Daniele Veraldi</span>          |
+|  9:00 -  9:55 | <span style="color: blue;">Jannes Nys</span>                |
+|  9:55 - 10:20 | <span style="color: green;">Henry Fried</span>              |
+| 10:20 - 10:45 | <span style="color: black;">Coffee break </span> ☕         |
+| 10:45 - 11:10 | <span style="color: green;">Prashant Kumar</span>           |
+| 11:10 - 11:35 | <span style="color: green;">José Batista</span>             |
+| 11:35 - 12:30 | <span style="color: blue;">Julia M. Schaefer</span>         |
+| 12:30 - 14:00 | <span style="color: black;">Lunch break</span> 🍽️           |
 |               |                                                             |
 | 14:00 - 16:00 | <span style="color: red;">scientific discussion</span>      |
 
