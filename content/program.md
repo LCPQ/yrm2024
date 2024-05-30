@@ -81,7 +81,7 @@ draft: false
 | 11:45 - 12:10 | <span style="color: green;">Fatema Yahya Mohamed</span>              |
 | 12:10 - 12:35 | <span style="color: green;">Marco Marino</span>                      |
 | 12:35 - 14:00 | <span style="color: black;">Lunch break</span> 🍽️                    |
-| **SESSION 2** | <span style="color: purple;">Chair: Carlos Mejuto-Zaera</span>       |
+| **SESSION 2** | <span style="color: purple;">Chair: Maria Andreea Filip</span>       |
 | 14:00 - 14:55 | <span style="color: blue;">Sara Giarrusso</span>                     |
 | 14:55 - 15:20 | <span style="color: black;">Coffee break</span> ☕                   |
 | 15:20 - 15:45 | <span style="color: green;">Yiming Zhang</span>                      |
