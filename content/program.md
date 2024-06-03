@@ -45,8 +45,7 @@ draft: false
 | **SESSION 2** | <span style="color: purple;">Chair: Svenja M. Janke</span>      |
 | 14:00 - 14:55 | <span style="color: blue;">Laura Urquiza</span>                 |
 | 14:55 - 15:20 | <span style="color: green;">Jozef Janovec</span>                |
-| 15:20 - 15:45 | <span style="color: green;">Brahim Bahloul</span>               |
-| 15:45 - 17:00 | <span style="color: black;">Coffee + Poster Session</span> ☕       |
+| 15:20 - 17:00 | <span style="color: black;">Coffee + Poster Session</span> ☕       |
 
 
 ### Wednesday, May 29, 2024
@@ -66,7 +65,6 @@ draft: false
 | 14:55 - 15:20 | <span style="color: black;">Coffee break</span> ☕                   |
 | 15:20 - 15:45 | <span style="color: green;">Maram Ali Ahmed Musa</span>              |
 | 15:45 - 16:10 | <span style="color: green;">Maxime Mignolet</span>                   |
-| 16:10 - 16:35 | <span style="color: green;">Muhammad Shujaat Hussain</span>          |
 
 
 ### Thursday, May 30, 2024
